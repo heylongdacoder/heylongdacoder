@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @heylongdacoder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi Everyone, I am a full time DevOps enginner and an open source enthusiast.
+
+- 🌱 Learning: Prometheus Operator
+- 🌴 Planning to Learn: Thanos, Prometheus, Alertmanager
+- 🍁 Contributed: Prometheus Operator, Thanos
+- ☘️ Linkedin: https://www.linkedin.com/in/wen-long-tee-3ba08b132/
 
 <!---
 heylongdacoder/heylongdacoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
