@@ -2,7 +2,7 @@
 
 - 🌱 Learning: Prometheus Operator
 - 🌴 Plan to Learn: Thanos, Prometheus, Alertmanager
-- 🍁 Contributing: Prometheus Operator, Thanos
+- 🍁 Contributing: Prometheus Operator
 - ☘️ Linkedin: https://www.linkedin.com/in/wen-long-tee-3ba08b132/
 
 <!---
