@@ -1,4 +1,4 @@
-👋 Hi Everyone, I am a full time DevOps enginner and an open source enthusiast.
+👋 Hi Everyone, I am a full time DevOps engineer and an open source enthusiast.
 
 - 🌱 Learning: Prometheus Operator
 - 🌴 Plan to Learn: Thanos, Prometheus, Alertmanager
