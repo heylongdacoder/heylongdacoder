@@ -1,6 +1,6 @@
 👋 Hi Everyone, I am a full time DevOps engineer and an open source enthusiast.
 
-- 🌱 Learning: Prometheus Operator
+- 🌱 Learning: Prometheus Operator, FrostDB, Parca, eBPF
 - 🌴 Plan to Learn: Thanos, Prometheus, Alertmanager
 - 🍁 Contributing: Prometheus Operator
 - ☘️ Linkedin: https://www.linkedin.com/in/wen-long-tee-3ba08b132/
